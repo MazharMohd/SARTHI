@@ -1,0 +1,1 @@
+Sarthi is a sophisticated platform designed to assist tourists and travelers in easily finding knowledgeable guides for their adventures. Users can log in to our website, select their desired tour destination, and choose a guide based on their preferences. This platform aims to enhance the overall experience of users by providing expert guidance throughout their journey.
